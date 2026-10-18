@@ -1,1 +1,0 @@
-__d(function(e,o,l,i,s,h,n){s.exports=[{h:[[1,"A Call to Rebuild the Temple",1],[12,"The People Obey",1]],p:[1,3,4,5,6,7,8,10,12,13,14]},{h:[[1,"The Coming Glory of God\u2019s House",1],[10,"Blessings for a Defiled People",1],[20,"Zerubbabel the LORD\u2019s Signet Ring",1]],p:[1,4,6,7,10,13,14,15,18,20,22]}]},2771,[]);

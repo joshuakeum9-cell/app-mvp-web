@@ -1,0 +1,1 @@
+__d(function(n,e,s,a,i,t,r){i.exports=[{h:[[1,"Greetings to the Thessalonians",1],[5,"Christ\u2019s Coming",1]],p:[1,2,3,5,11]},{h:[[1,"The Man of Lawlessness",1],[13,"Stand Firm",1]],p:[1,5,9,13,16]},{h:[[1,"Request for Prayer",1],[6,"A Warning against Idleness",1],[16,"Signature and Final Greetings",1]],p:[1,6,11,14,16,17,18]}]},2787,[]);

@@ -1,0 +1,1 @@
+__d(function(e,o,n,t,d,r,g){d.exports=[{h:[[1,"A Greeting from Jude",1],[3,"God\u2019s Judgment on the Ungodly",1],[17,"A Call to Persevere",1],[24,"Doxology",1]],p:[1,2,3,5,8,12,14,15,16,17,20,22,24]}]},2799,[]);

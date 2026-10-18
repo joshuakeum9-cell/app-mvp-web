@@ -1,0 +1,1 @@
+__d(function(e,t,o,r,i,n,s){i.exports=[{h:[[1,"A Greeting from Peter",1],[3,"Partakers of the Divine Nature",1],[16,"Eyewitnesses of His Majesty",1]],p:[1,2,3,5,10,12,16,19]},{h:[[1,"Deliverance from False Prophets",1]],p:[1,4,10,12,14,15,17,20]},{h:[[1,"The Coming Judgment",1],[8,"The Day of the Lord",1],[14,"Final Exhortations",1]],p:[1,3,5,8,10,11,14,15,17]}]},2795,[]);

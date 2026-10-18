@@ -1,0 +1,1 @@
+__d(function(e,i,n,o,a,s,t){a.exports=[{h:[[1,"Greetings from Paul and Timothy",1],[4,"Philemon\u2019s Faith and Love",1],[8,"Paul\u2019s Appeal for Onesimus",1],[23,"Additional Greetings",1]],p:[1,2,3,4,8,10,13,17,20,21,22,23,25]}]},2044,[]);

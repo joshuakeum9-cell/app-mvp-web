@@ -1,1 +1,0 @@
-__d(function(e,h,n,i,o,t,p){o.exports=[{h:[[1,"The Burden against Nineveh",1]],p:[1,2,7,9,12,13,14,15]},{h:[[1,"The Overthrow of Nineveh",1]],p:[1,2,3,7,11,13]},{h:[[1,"Judgment on Nineveh",1]],p:[1,5,8,12,13,14,18]}]},2881,[]);

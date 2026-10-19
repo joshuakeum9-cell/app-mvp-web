@@ -1,0 +1,1 @@
+__d(function(e,h,t,n,o,a,s){o.exports=[{h:[[1,"Jonah Flees from the LORD",1],[4,"The Great Storm",1],[11,"Jonah Cast into the Sea",1]],p:[1,3,4,6,7,8,9,10,11,12,13,14,15,16,17]},{h:[[1,"Jonah\u2019s Prayer",1]],p:[1,3,5,7,10]},{h:[[1,"The Ninevites Repent",1]],p:[1,3,4,5,6,7,8,10]},{h:[[1,"Jonah\u2019s Anger at the LORD\u2019s Compassion",1]],p:[1,4,5,7,8,9,10]}]},3094,[]);
